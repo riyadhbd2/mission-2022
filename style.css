@@ -29,3 +29,38 @@ body{
 .head-second{
     color: orange;
 }
+span{
+    color: orange;
+}
+.mission{
+    text-align: center;
+}
+.three-flex{
+    display: flex;
+}
+.first-box{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    background-color: cadetblue;
+    border-radius: 20px;
+
+}
+.second-box{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+.third-box{
+    width: 30%;
+    padding: 20px;
+    margin: 10px;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+}
+.illustator{
+    width: 200px;
+    height: 200px;
+}
