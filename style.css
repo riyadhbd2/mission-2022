@@ -1,3 +1,31 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 10%;
+}
+.first-section{
+    display: flex;
+}
+.image-one{
+    width: 50%
+}
+.person-pic{
+    width: 400px;
+    height: 400px;
+}
+.head-one{
+    width: 50%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.head-first{
+    font-size: 700;
+    font-weight: 900;
+}
+.head-second{
+    color: orange;
 }
